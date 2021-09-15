@@ -1,6 +1,6 @@
 FEDERATION_SERVER="https://api.stellar.org/federation" 
 
-ACCOUNTS=[...] 
+ACCOUNTS=[1234567890] 
 
 [DOCUMENTATION] 
 ORG_NAME="SUBS Token" 
