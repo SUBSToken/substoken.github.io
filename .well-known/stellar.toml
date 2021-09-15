@@ -1,1 +1,17 @@
+FEDERATION_SERVER="https://api.stellar.org/federation" 
 
+ACCOUNTS=[ ... ] 
+
+[DOCUMENTATION] 
+ORG_NAME="SUBS Token" 
+ORG_URL="https://substoken.top" 
+ORG_LOGO="https://substoken.top/logo.png" 
+
+[[CURRENCIES]] 
+code="SUBS" 
+issuer="..." 
+name="Subscriber Token" 
+desc="Subscribers Token (Ticker : SUBS) is utility token for rewarding youtube subscribers or other social media followers and strengthen audience inside their communities." 
+display_decimals=7 
+conditions="Buy SUBS Token to give rewards for your youtube subscribers or any other social media followers."
+image="https://substoken.top/logo.png" 
