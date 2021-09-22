@@ -12,7 +12,7 @@ ORG_LOGO="https://substoken.top/logo.png"
 
 [[CURRENCIES]] 
 code="SUBS" 
-issuer="GDBTEON3ZDRITZ7LNQ7PUAHPHLKUXSKR5QGSE7V7JOZM5ZSAQH2ESUBS" 
+issuer="GD6K4SSFOHK7HZWMENMEZZX5SBMMIQI6FFJSIAGKMENGLBVBXK6KSUBS" 
 name="Subscriber Token" 
 desc="Subscribers Token (Asset Code : SUBS) is utility token for rewarding youtube subscribers or other social media followers and strengthen audience of SUBStoken's community members." 
 display_decimals=7 
