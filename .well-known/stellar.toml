@@ -13,8 +13,9 @@ ORG_LOGO="https://substoken.top/logo.png"
 [[CURRENCIES]] 
 code="SUBS" 
 issuer="GD6K4SSFOHK7HZWMENMEZZX5SBMMIQI6FFJSIAGKMENGLBVBXK6KSUBS" 
+status="LIVE" 
 name="Subscriber Token" 
 desc="Subscribers Token (Asset Code : SUBS) is rewarding token for youtube subscribers or other social media followers and strengthen audience of the community members." 
 display_decimals=7 
 conditions="Buy SUBS Token to give rewards for your youtube subscribers or any other social media followers and strengthen audience of your own community." 
-image="https://substoken.top/logo/64x64.png" 
+image="https://substoken.top/logo/64x64.svg" 
