@@ -7,15 +7,15 @@ ACCOUNTS=[
 
 [DOCUMENTATION] 
 ORG_NAME="SUBS Token" 
-ORG_URL="https://substoken.top" 
-ORG_LOGO="https://substoken.top/logo.png" 
+ORG_URL="https://substoken.io" 
+ORG_LOGO="https://substoken.io/logo/345x345.svg" 
 
 [[CURRENCIES]] 
 code="SUBS" 
 issuer="GD6K4SSFOHK7HZWMENMEZZX5SBMMIQI6FFJSIAGKMENGLBVBXK6KSUBS" 
-status="LIVE" 
+status="live" 
 name="Subscriber Token" 
 desc="Subscribers Token (Asset Code : SUBS) is rewarding token for Youtube subscribers or other social media followers and strengthen audience of the community members." 
 display_decimals=7 
 conditions="Buy SUBS Token to give rewards for your Youtube subscribers or any other social media followers and strengthen audience of your own community." 
-image="https://substoken.top/logo/64x64.svg" 
+image="https://substoken.io/logo/64x64.svg" 
